@@ -1,0 +1,41 @@
+[
+  {
+    "returnId": "RET2001",
+    "orderId": "ORD8011",
+    "product": "Sony Headphones XM5",
+    "customer": "Kavita Rao",
+    "reason": "Changed Mind",
+    "warehouse": "Hyderabad Hub",
+    "date": "2026-07-08",
+    "status": "Received",
+    "condition": "Pending",
+    "estimatedSaving": 1150,
+    "matchCustomer": "Deepak Shah"
+  },
+  {
+    "returnId": "RET2002",
+    "orderId": "ORD8012",
+    "product": "MacBook Air M2",
+    "customer": "Arjun Kapoor",
+    "reason": "Wrong Specs",
+    "warehouse": "Bengaluru South",
+    "date": "2026-07-08",
+    "status": "Received",
+    "condition": "Pending",
+    "estimatedSaving": 1800,
+    "matchCustomer": "Meera Sen"
+  },
+  {
+    "returnId": "RET2003",
+    "orderId": "ORD8013",
+    "product": "Running Shoes",
+    "customer": "Tanvi Joshi",
+    "reason": "Size Issue",
+    "warehouse": "Delhi West",
+    "date": "2026-07-08",
+    "status": "Received",
+    "condition": "Pending",
+    "estimatedSaving": 350,
+    "matchCustomer": "Aditya Roy"
+  }
+]
